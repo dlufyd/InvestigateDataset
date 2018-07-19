@@ -1,0 +1,17 @@
+Understanding for the dataset
+
+https://developers.themoviedb.org/3/getting-started/popularity
+https://www.kaggle.com/tmdb/tmdb-movie-metadata
+
+Links for converting piped column values to new columns
+https://stackoverflow.com/questions/36002976/python-split-dataframe-column-with-pipe
+https://stackoverflow.com/questions/48014555/make-new-pandas-columns-based-on-pipe-delimited-column-with-possible-repeats
+
+For Chart samples
+
+https://plot.ly/pandas/bar-charts/
+https://stackoverflow.com/questions/29498652/plot-bar-graph-from-pandas-dataframe
+
+Global crysis
+http://www.ifre.com/a-history-of-the-past-40-years-in-financial-crises/21102949.fullarticle
+https://en.wikipedia.org/wiki/List_of_economic_crises
